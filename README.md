@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/ai-machine-learning-template-vector-disruptive-technology-blog-banner_53876-112230.jpg?w=996&t=st=1710171587~exp=1710172187~hmac=6ad41b36d7fb34e0d1ab6cf3d270c3941493a6dd8e635972e9e37752cd50ffe1)]
+![MasterHead](https://img.freepik.com/free-vector/ai-machine-learning-template-vector-disruptive-technology-blog-banner_53876-112230.jpg?w=996&t=st=1710171587~exp=1710172187~hmac=6ad41b36d7fb34e0d1ab6cf3d270c3941493a6dd8e635972e9e37752cd50ffe1)
 
 <h1 align="center">Hi 👋, I'm Deepak kumar Patel</h1>
 <h3 align="center">A passionate Datascientist from India</h3>
