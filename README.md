@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak01tech&label=Profile%20views&color=0e75b6&style=flat" alt="deepak01tech" /> </p>
 
-- 🔭 I’m currently "trainee"  in **shanti infosoft indore**
+- 🔭 I’m currently "trainee"  in **Shanti infosoft Indore**
 
 - 🌱 I’m currently learning **Django and flask**
 
